@@ -1,0 +1,27 @@
+## ~ Nishan Reshmi 
+
+Thankyou ICIT Collage for organizing this contest. I really enjoy creating this prject
+Here are most details about this project
+
+In this projct I used font-awesome libery for icon and I only used pure HTML and CSS for 
+creating project. 
+
+1. I sepereate my website mainly into 3 sections. 
+* header
+* main 
+* footer 
+
+In the header section I add navbar section and also categories it into different sections
+In the main section all the content are there and it simple in design because I want to 
+make it easy access with faster speed. 
+In the footer section I add copyright bar just for nice look 
+
+Talking about CSS I give name for all div. 
+
+The main problem my web design solve is: 
+1. Userfriendly interface 
+2. easy to use 
+3. everything in one layout
+
+that's it.
+
