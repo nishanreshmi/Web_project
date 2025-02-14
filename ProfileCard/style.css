@@ -1,0 +1,141 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: #cf8b4acb;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bkcolor{
+    margin-top: 80px;
+    margin-left: 40%;
+       
+}
+
+.maincard{
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: white;
+    box-shadow: 3px 6px 8px rgb(71, 71, 71);
+    width: 300px;
+    height: 400px;
+
+}
+
+.topdesign{
+    height: 37%;
+    width: 100%;  
+    background-image: url("3design.jpg");
+    background-size: cover;
+    background-position: center;
+    border: none;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.profilepic{
+    height: 75px;
+    width: 75px;
+    color: black;
+    border-radius: 50%;
+    margin-top: 100px ;
+    position: absolute;
+    bottom: 42px;
+    background-position: center;
+    background-image: url("profilepic.png");
+    background-size: cover;
+}
+
+.downdesign{
+    
+    
+}
+
+.namesection{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.namesection p{
+    font-size: large;
+    font-weight: bolder;
+    text-align: center;
+
+}
+
+.hastag{
+    font-size: smaller;
+    font-weight: lighter;
+
+}
+
+.socialconnect{
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    cursor: pointer;
+     
+}
+
+.aboutbar p { 
+    font-weight: bold;
+    padding: 0px 10px ;
+    font-size: 0.75em;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.personalconnect{
+    
+    display: flex;
+    justify-content: space-around;
+    margin-top: 25px;
+
+}
+
+.followbutton{
+    border-radius: 20px;
+    background-color: rgba(202, 17, 57, 0.925);
+    text-align: center;
+    height: 40px;
+    width: 120px;
+    color: white;
+    padding-top: 7px;
+    cursor: pointer;
+}
+
+.messagebutton{
+    border: 2px solid rgb(136, 136, 136);
+    border-radius: 20px;
+    text-align: center;
+    height: 40px;
+    width: 120px;
+    color: black;
+    padding-top: 7px;
+    cursor: pointer;
+}
+
+.followbutton:hover{
+    background-color: rgba(155, 12, 43, 0.925);
+
+}
+
+.messagebutton:hover{
+    background-color: rgba(21, 21, 133, 0.938);
+    color: white;
+    border: transparent;
+    
+}
